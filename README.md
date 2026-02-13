@@ -1,4 +1,4 @@
-# iMathus 🧮
+# Math for Life 🧮
 
 **iMathus** - Professional knowledge-sharing website for modern advanced mathematics, specializing in:
 
